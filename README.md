@@ -28,3 +28,41 @@ To reduce the ads/tracking in my mobile, I use [nextdns](https://nextdns.io/). T
 Use a password manager(Bitwarden etc) to store your passwords. No need to remember them.
 Always Always ALWAYS use randomly generated password except for those clunky
 Bank websites who won't let you autofill and make you type the password.
+
+## GNU core utils:
+Ref: [here](https://www.youtube.com/watch?v=lyd6Lxy1IuE)
+### [date](https://www.gnu.org/software/coreutils/manual/html_node/Examples-of-date.html)
+```sh
+$ date
+
+$ date -d '1 hour ago'
+```
+
+### factor
+Prints the prime factors of a number.
+
+### [numfmt](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html) / gnumfmt
+```sh
+# format via grouping
+$ LC_NUMERIC=en_US.UTF-8; echo 1234567890 | numfmt --grouping
+1,234,567,890
+
+$ echo 1234567890 | numfmt --to=iec
+1.2G
+
+$ echo 1234567890 | numfmt --to=si
+1.3G
+```
+
+### nproc
+nproc - print the number of processing units available
+
+### env
+```sh
+# run a process with name `lamo`
+$ genv -a lmao yes 123
+```
+
+
+
+
