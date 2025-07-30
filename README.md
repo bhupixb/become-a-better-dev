@@ -63,6 +63,8 @@ nproc - print the number of processing units available
 $ genv -a lmao yes 123
 ```
 
+### Postgres Reads
 
+- https://byteofdev.com/posts/making-postgres-slow/
 
 
