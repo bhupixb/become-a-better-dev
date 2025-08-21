@@ -71,3 +71,7 @@ $ genv -a lmao yes 123
 
 - https://minds.md/zakirullin/cognitive
 
+### Interesting security writeups:
+
+- RCE via SQL injection: https://labs.watchtowr.com/pre-auth-sql-injection-to-rce-fortinet-fortiweb-fabric-connector-cve-2025-25257/
+
