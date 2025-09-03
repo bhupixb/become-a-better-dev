@@ -75,6 +75,10 @@ $ genv -a lmao yes 123
 
 - RCE via SQL injection: https://labs.watchtowr.com/pre-auth-sql-injection-to-rce-fortinet-fortiweb-fabric-connector-cve-2025-25257/
 
+### Software engineering Advice:
+
+-  Advice from Amazon CTO: https://everton.xyz/i-sat-down-with-werner-vogels/ . This url is also saved on wayback machine, in case it fails in future.
+
 ### IntelliJ IDEA
 
 - JVM debugger in IntelliJ Advanced: https://www.youtube.com/watch?v=40Og3hTV--k
