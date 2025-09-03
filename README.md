@@ -78,6 +78,7 @@ $ genv -a lmao yes 123
 ### Software engineering Advice:
 
 -  Advice from Amazon CTO: https://everton.xyz/i-sat-down-with-werner-vogels/ . This url is also saved on wayback machine, in case it fails in future.
+-  https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/
 
 ### IntelliJ IDEA
 
