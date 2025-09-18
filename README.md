@@ -85,3 +85,4 @@ $ genv -a lmao yes 123
 - JVM debugger in IntelliJ Advanced: https://www.youtube.com/watch?v=40Og3hTV--k
 - Pause Program in IntelliJ: https://blog.jetbrains.com/idea/2024/06/debugger-upskill-debug-without-breakpoints/
 - How java debuggers work: https://blog.jetbrains.com/idea/2025/05/sources-bytecode-debugging
+- Data flow, static analysis: https://blog.jetbrains.com/idea/2020/10/explore-your-program-with-static-analysis/
