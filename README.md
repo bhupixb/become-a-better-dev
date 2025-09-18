@@ -83,4 +83,4 @@ $ genv -a lmao yes 123
 ### IntelliJ IDEA
 
 - JVM debugger in IntelliJ Advanced: https://www.youtube.com/watch?v=40Og3hTV--k
-
+- How java debuggers work: https://blog.jetbrains.com/idea/2025/05/sources-bytecode-debugging
