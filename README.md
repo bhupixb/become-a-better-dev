@@ -70,6 +70,7 @@ $ genv -a lmao yes 123
 ### Good reads on SWE
 
 - https://minds.md/zakirullin/cognitive
+- https://terriblesoftware.org/2025/10/01/stop-avoiding-politics
 
 ### Interesting security writeups:
 
