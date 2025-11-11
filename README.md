@@ -7,6 +7,7 @@ All advice is based on my personal opinion, you may not agree with it & that's o
 - video: [Configure git](https://www.youtube.com/watch?v=G3NJzFX6XhY)
 - video: [You think you know git part1](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 - video: [You think you know git part2](https://www.youtube.com/watch?v=Md44rcw13k4)
+- [Git via SSH]([url](https://x.com/tsoding/status/1983417259294109724))
 
 ## Vim
 
