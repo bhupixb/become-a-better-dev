@@ -76,6 +76,7 @@ $ genv -a lmao yes 123
 
 - https://minds.md/zakirullin/cognitive
 - https://terriblesoftware.org/2025/10/01/stop-avoiding-politics
+- https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
 
 ### Interesting security writeups:
 
