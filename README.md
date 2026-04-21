@@ -72,6 +72,10 @@ $ genv -a lmao yes 123
 
 - https://byteofdev.com/posts/making-postgres-slow/
 
+### Career Advice
+
+- https://boz.com/articles/career-cold-start
+
 ### Good reads on SWE
 
 - https://minds.md/zakirullin/cognitive
