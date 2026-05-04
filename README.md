@@ -17,6 +17,7 @@ I mostly use NeoVim for basic purposes. Configured via LazyVim.
 ## Linux
 
 - [How a Backup Bug Erased 77 TB at Kyoto University](https://www.youtube.com/watch?v=Nkm8BuMc4sQ). Interesting `cp` vs `mv` atomicity on same vs different filesystem.
+- https://lfg.popovicu.com/ deep internals of linux
 
 ## Browsers
 - Use Brave or Firefox with ublock origin.
